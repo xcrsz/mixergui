@@ -45,3 +45,12 @@ Users can select audio devices, view and control multiple channels simultaneousl
 Execute the compiled binary from your terminal:
 ```bash
 ./mixergui
+```
+
+## Future Enhancements (Ideas)
+
+  * Keyboard navigation for selecting devices, channels, and adjusting controls.
+  * More detailed visual customization of channel strips.
+  * Display and control for stereo balance if provided by the backend.
+  * Option to manually select the audio backend (OSS vs. PulseAudio) if auto-detection is not desired.
+  * More robust parsing and error handling for backend command outputs.
