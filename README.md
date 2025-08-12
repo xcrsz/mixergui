@@ -1,5 +1,7 @@
 # Mixer GUI (OSS / PulseAudio)
 
+![License](https://github.com/xcrsz/Independent_Commons_License_v1.2_Humanitarian_Edition/blob/main/icl-humanitarian-badge.svg)
+
 ## Description
 
 This application provides a GTK3-based graphical user interface for managing audio settings on FreeBSD systems. It supports both the native OSS (Open Sound System) via the `mixer` command and the PulseAudio sound server via the `pactl` command, with automatic backend detection.
